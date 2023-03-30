@@ -1,0 +1,9 @@
+# ignore the node packages
+node_modules
+
+# system cache
+.DS_Store
+
+# ide cache
+.idea/
+.vscode
